@@ -3,14 +3,15 @@
 A simple AI chatbot built using HTML, CSS, and JavaScript.
 
 ## Features
-- Interactive chat interface
+- Chat interface
+- Fetches real information from the internet
 - Short and useful answers
-- Knowledge about common topics
-- Automatic Google search for unknown questions
+- API-based chatbot
 
 ## Technologies
 HTML
 CSS
 JavaScript
+Wikipedia API
 
 🔗 Live Demo: 
