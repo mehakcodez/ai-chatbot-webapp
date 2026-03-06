@@ -1,16 +1,16 @@
 # AI Chatbot Web App
 
-A simple AI chatbot interface built with HTML, CSS, and JavaScript.
+A simple AI chatbot built using HTML, CSS, and JavaScript.
 
 ## Features
 - Interactive chat interface
-- Automated bot replies
-- Clean and responsive UI
-- Real-time message display
+- Short and useful answers
+- Knowledge about common topics
+- Automatic Google search for unknown questions
 
-## Technologies Used
-HTML  
-CSS  
+## Technologies
+HTML
+CSS
 JavaScript
 
 🔗 Live Demo: 
