@@ -15,4 +15,4 @@ CSS
 JavaScript
 Wikipedia API
 
-🔗 Live Demo: 
+🔗 Live Demo: https://mehakcodez.github.io/ai-chatbot-webapp/
